@@ -1,0 +1,24 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "yes",
+  "main": "index.js",
+  "scripts": {
+    "test": "yes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "keywords": [
+    "yes"
+  ],
+  "author": "yes",
+  "license": "SEE LICENSE IN <filename>",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.1",
+    "node-restful": "^0.2.6"
+  }
+}
